@@ -10,3 +10,8 @@ In my experience, learning by doing is the best way to master Python or any othe
 We explore the initial game and think about a strategy. Before you start coding, you must make a plan. What should you do first? The backend development or the graphical user interface (GUI). We look at the game's features, including starting a new game, families, politics, and empire-building. Next, we will begin working with Tkinter. The fun starts!
 
 ### [YouTube video 2](https://youtu.be/4w_T2Hc8nfU)
+
+## Python Game Dev: Tkinter Intro
+This session introduces Tkinter. Starting with the documentation, we walk through a minimal working example (MWE). We tackle the first error and build a very basic GUI. We learn about frames, buttons, and labels. We explore commands triggered by buttons. Join me!
+
+### [YouTube video 3](https://youtu.be/f-a8hLrYEU4)
