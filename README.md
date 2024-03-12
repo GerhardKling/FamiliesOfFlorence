@@ -15,3 +15,8 @@ We explore the initial game and think about a strategy. Before you start coding,
 This session introduces Tkinter. Starting with the documentation, we walk through a minimal working example (MWE). We tackle the first error and build a very basic GUI. We learn about frames, buttons, and labels. We explore commands triggered by buttons. Join me!
 
 ### [YouTube video 3](https://youtu.be/f-a8hLrYEU4)
+
+## Menu bars in Tkinter
+This session explores menu bars in Tkinter. We develop a basic menu bar and commands. Submenus, tear-offs, and separators are also introduced.
+
+### [YouTube video 4](https://youtu.be/Z19X2yHzWs0)
