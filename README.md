@@ -20,3 +20,8 @@ This session introduces Tkinter. Starting with the documentation, we walk throug
 This session explores menu bars in Tkinter. We develop a basic menu bar and commands. Submenus, tear-offs, and separators are also introduced.
 
 ### [YouTube video 4](https://youtu.be/Z19X2yHzWs0)
+
+## User Input in Tkinter
+In this session, we start adding functionality to our GUI. We learn about new windows, entry widgets, radio buttons, and dealing with user input. We also explore the scope of variables (i.e., local and global variables).
+
+### [YouTube video 5](https://youtu.be/wmMsXzfD2hc)
