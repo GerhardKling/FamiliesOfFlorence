@@ -30,3 +30,8 @@ In this session, we start adding functionality to our GUI. We learn about new wi
 We learn object-oriented programming (OOP) and create our own classes. The new classes player and family serve as containers for user input. This is an important step before we can save and load the game.
 
 ### [YouTube video 6](https://youtu.be/ECNaQMEPMZY)
+
+## Loading and saving in Python
+This video provides an introduction to Pickle (Python object serialization). We use Pickle to save and load games. Many approaches can achieve the same task, including using a database. However, we only have a few instances to store.
+
+### [YouTube video 7](https://youtu.be/x6RpAsW_FMk)
