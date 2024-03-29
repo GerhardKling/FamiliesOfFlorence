@@ -25,3 +25,8 @@ This session explores menu bars in Tkinter. We develop a basic menu bar and comm
 In this session, we start adding functionality to our GUI. We learn about new windows, entry widgets, radio buttons, and dealing with user input. We also explore the scope of variables (i.e., local and global variables).
 
 ### [YouTube video 5](https://youtu.be/wmMsXzfD2hc)
+
+## Player and family class
+We learn object-oriented programming (OOP) and create our own classes. The new classes player and family serve as containers for user input. This is an important step before we can save and load the game.
+
+### [YouTube video 6](https://youtu.be/ECNaQMEPMZY)
